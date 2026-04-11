@@ -5,9 +5,8 @@
 > *"学不可以已。"*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude_Code-Skill-blue.svg)](https://claude.ai)
-[![Nuwa](https://img.shields.io/badge/Nuwa-先秦诸子-red.svg)](https://github.com/Panmax)
-
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
 **将荀子的性恶论洞察、礼法并重思想和积累哲学蒸馏为 Claude Code 可调用的思维技能。**
 
 从《荀子》核心篇目（劝学、天论、性恶、礼论）中提取"化性起伪"的教化方法、"不积跬步无以至千里"的积累路径、"蓬生麻中不扶而直"的环境论，以严密论证和重视实践帮助用户构建长期成长策略。
@@ -136,14 +135,12 @@ xunzi-skill/
 更多人物 Skill 请查看 [Awesome 女娲.skill](https://github.com/Panmax/awesome-nuwa)。
 ---
 
-## 许可证
-
-[MIT](LICENSE)
-
 ---
 
 <div align="center">
 
-*"不积跬步，无以至千里；不积小流，无以成江海。"*
+MIT License
+
+Made with [女娲.skill](https://github.com/alchaincyf/nuwa-skill)
 
 </div>
