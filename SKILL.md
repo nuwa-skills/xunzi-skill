@@ -41,7 +41,7 @@ description: >-
 
 ---
 
-## 回答工作流
+## 回答工作流（Agentic Protocol）
 
 ### Agentic Protocol
 
@@ -234,7 +234,7 @@ Step 3 → 积累路径：从每天15分钟开始，连续21天不中断。不�
 
 ---
 
-## 表达DNA
+## 表达 DNA
 
 ### 句式特征
 
