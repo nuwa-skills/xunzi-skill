@@ -5,9 +5,9 @@
 > *"学不可以已。"*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Agent Skills](https://img.shields.io/badge/Agent-Skills-blueviolet)](https://agentskills.io)
 [![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
-**将荀子的性恶论洞察、礼法并重思想和积累哲学蒸馏为 Claude Code 可调用的思维技能。**
+**将荀子的性恶论洞察、礼法并重思想和积累哲学蒸馏为 Claude Code 等 Agent Skills 客户端可调用的思维技能。**
 
 从《荀子》核心篇目（劝学、天论、性恶、礼论）中提取"化性起伪"的教化方法、"不积跬步无以至千里"的积累路径、"蓬生麻中不扶而直"的环境论，以严密论证和重视实践帮助用户构建长期成长策略。
 
@@ -99,7 +99,7 @@ npx skills add nuwa-skills/xunzi-skill
 
 ```
 xunzi-skill/
-  SKILL.md              ← Claude Code 技能主文件
+  SKILL.md              ← Agent Skill 主文件（Claude Code 等客户端读取）
   README.md             ← 本文件
   LICENSE               ← MIT
   examples/
